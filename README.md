@@ -1,4 +1,4 @@
-# office_catering_platform_backend
+# office_catering_platform_frontend
 
 ## Build Setup
 
